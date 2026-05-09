@@ -1,0 +1,2818 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Succession Tax & Costs",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 1120,
+      "color": "1"
+    },
+    {
+      "id": "n_abattements_succession_tax_allowances",
+      "type": "file",
+      "file": "Abattements Successoraux (Succession Tax Allowances).md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_34_payer_factures_emergency_access",
+      "type": "file",
+      "file": "Acc\u00e8s d'Urgence aux Fonds (\u20ac5,000 Limit for Spouse).md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_abattements_succession_family_business_relief",
+      "type": "file",
+      "file": "All\u00e8gement pour Entreprises Familiales (Family Business Relief).md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_29_frais_notaire_legacio_alternative",
+      "type": "file",
+      "file": "Alternative Legacio aux Frais de Notaire (Fixed Transparent Pricing).md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_remplir_declaration_succession_flandre_self_filing",
+      "type": "file",
+      "file": "Auto-D\u00e9claration de Succession en Flandre (Self-Filing).md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_29_frais_notaire_fee_calculation",
+      "type": "file",
+      "file": "Calcul des Frais de Notaire (% of Gross Assets, Case-by-Case).md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_succession_apres_deces_certificat_heredite",
+      "type": "file",
+      "file": "Certificat d'H\u00e9r\u00e9dit\u00e9 (Certificate of Inheritance).md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_declaration_succession_notairebe_content_requirements",
+      "type": "file",
+      "file": "Contenu Requis de la D\u00e9claration de Succession.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_24_couts_succession_total_costs",
+      "type": "file",
+      "file": "Co\u00fbts Totaux d'une Succession (avg. \u20ac10,000).md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_freres_soeurs_donations_planning",
+      "type": "file",
+      "file": "Donations du Vivant comme Strat\u00e9gie pour Fr\u00e8res et S\u0153urs.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_24_couts_succession_droits_succession",
+      "type": "file",
+      "file": "Droits de Succession (Succession Tax - Primary Cost).md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_succession_apres_deces_deblocage_bancaire",
+      "type": "file",
+      "file": "D\u00e9blocage Bancaire (Bank Account Unlocking after Death).md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_declaration_succession_notairebe_mutation_par_deces",
+      "type": "file",
+      "file": "D\u00e9claration de Mutation par D\u00e9c\u00e8s (for Foreign Residents' Belgian Property).md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_35_saut_generation_renunciation_declaration",
+      "type": "file",
+      "file": "D\u00e9claration de Renonciation (Renunciation to Trigger Generation Skip).md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_declaration_succession_notairebe_official_declaration",
+      "type": "file",
+      "file": "D\u00e9claration de Succession Officielle (notaire.be).md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_temps_notaire_succession_legal_deadlines",
+      "type": "file",
+      "file": "D\u00e9lais L\u00e9gaux de Succession (Legal Deadlines).md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_24_couts_succession_funeral_costs",
+      "type": "file",
+      "file": "Frais Fun\u00e9raires (Funeral Costs in Succession).md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_29_frais_notaire_notary_fees",
+      "type": "file",
+      "file": "Frais de Notaire pour Succession.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_34_payer_factures_bank_freeze",
+      "type": "file",
+      "file": "Gel des Comptes Bancaires apr\u00e8s D\u00e9c\u00e8s (Bank Freeze).md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_succession_apres_deces_process_overview",
+      "type": "file",
+      "file": "Guide Complet Succession apr\u00e8s D\u00e9c\u00e8s (23-Chapter Overview).md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_temps_notaire_succession_obligation_moyens",
+      "type": "file",
+      "file": "Obligation de Moyens du Notaire.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_temps_notaire_succession_late_filing_penalties",
+      "type": "file",
+      "file": "P\u00e9nalit\u00e9s de D\u00e9p\u00f4t Tardif (Late Filing Penalties).md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_35_saut_generation_regional_tax_differences",
+      "type": "file",
+      "file": "Regional Tax Differences for Generation Skipping (WalloniaBrussels vs Flanders).md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_remplir_declaration_succession_flandre_filing_risks",
+      "type": "file",
+      "file": "Risques de l'Auto-D\u00e9claration (Complexity and Penalty Risks).md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_abattements_succession_double_inheritance_reduction",
+      "type": "file",
+      "file": "R\u00e9duction pour Double H\u00e9ritage (50% Reduction for Assets Inherited Twice in a Year).md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_35_saut_generation_generation_skipping",
+      "type": "file",
+      "file": "Saut de G\u00e9n\u00e9ration (Generation Skipping Inheritance).md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_freres_soeurs_sibling_succession",
+      "type": "file",
+      "file": "Succession entre Fr\u00e8res et S\u0153urs (Sibling Inheritance).md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_freres_soeurs_sibling_tax_rates",
+      "type": "file",
+      "file": "Taux d'Imposition Fr\u00e8res et S\u0153urs (20%-65% Tax Rates for Siblings).md",
+      "x": 20,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Wills & Intestate Distribution",
+      "x": 1400,
+      "y": 0,
+      "width": 1100,
+      "height": 920,
+      "color": "2"
+    },
+    {
+      "id": "n_chapitre_07_testament_pas_testament_five_principles",
+      "type": "file",
+      "file": "Cinq Principes de D\u00e9volution L\u00e9gale (Ligne, Ordre, Degr\u00e9, Substitution, Fente).md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_08_testament_olographe_codicille",
+      "type": "file",
+      "file": "Codicille (Testament Amendment).md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "type": "file",
+      "file": "Droits du Conjoint Survivant (Surviving Spouse Rights).md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_11_testament_animaux_pet_guardianship",
+      "type": "file",
+      "file": "D\u00e9signation de Tuteur pour Animaux (Pet Guardianship in Will).md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_08_testament_olographe_validity_requirements",
+      "type": "file",
+      "file": "Holographic Will Validity Requirements.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "type": "file",
+      "file": "H\u00e9ritier vs L\u00e9gataire (Heir vs Legatee Distinction).md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "type": "file",
+      "file": "H\u00e9ritiers R\u00e9servataires (Protected Heirs).md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_23_conjoint_survivant_maison_familiale_exemption",
+      "type": "file",
+      "file": "Maison Familiale Tax Exemption (Surviving Spouse).md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_23_conjoint_survivant_nue_propriete",
+      "type": "file",
+      "file": "Nue-Propri\u00e9t\u00e9 (Bare Ownership).md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_27_repartition_heritage_ordre_succession",
+      "type": "file",
+      "file": "Ordre de Succession (Succession Order - 4 Categories).md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_07_testament_pas_testament_excluded_persons",
+      "type": "file",
+      "file": "Personnes Exclues sans Testament (Unmarried Partners, Stepchildren, Friends).md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_27_repartition_heritage_quotite_disponible",
+      "type": "file",
+      "file": "Quotit\u00e9 Disponible (Discretionary Share).md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_08_testament_olographe_registre_central_testaments",
+      "type": "file",
+      "file": "Registre Central des Testaments.md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_37_heritier_legataire_debt_liability",
+      "type": "file",
+      "file": "Responsabilit\u00e9 des Dettes (Heir Joint Liability vs Legatee Exemption).md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_23_conjoint_survivant_regime_matrimonial",
+      "type": "file",
+      "file": "R\u00e9gime Matrimonial Impact on Succession.md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_27_repartition_heritage_reserve_legale",
+      "type": "file",
+      "file": "R\u00e9serve L\u00e9gale (Protected Legal Share).md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_23_conjoint_survivant_reserve_conjoint",
+      "type": "file",
+      "file": "R\u00e9serve du Conjoint (Protected Spouse Share).md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_07_testament_pas_testament_intestate_succession",
+      "type": "file",
+      "file": "Succession Sans Testament (Intestate Succession - D\u00e9volution L\u00e9gale).md",
+      "x": 1820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_08_testament_olographe_holographic_will",
+      "type": "file",
+      "file": "Testament Olographe (Holographic Will).md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_08_testament_olographe_legs_types",
+      "type": "file",
+      "file": "Types de Legs (Universel, Titre Universel, Particulier).md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_37_heritier_legataire_legatee_types",
+      "type": "file",
+      "file": "Types de L\u00e9gataires (Universel, Titre Universel, Particulier).md",
+      "x": 1820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_23_conjoint_survivant_usufruit",
+      "type": "file",
+      "file": "Usufruit (Right of Use and Enjoyment).md",
+      "x": 1420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Asset Liability & Property in Succession",
+      "x": 2580,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "3"
+    },
+    {
+      "id": "n_chapitre_12_testament_immobilier_acceptation_inventaire",
+      "type": "file",
+      "file": "Acceptation sous b\u00e9n\u00e9fice d'inventaire.md",
+      "x": 2600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_39_frais_passif_actif_net_succession",
+      "type": "file",
+      "file": "Actif net de succession.md",
+      "x": 2800,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_article_108_succession_presomption_fiscale",
+      "type": "file",
+      "file": "Article 108 \u2013 Pr\u00e9somption fiscale d'actifs dessaisis.md",
+      "x": 3000,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_12_testament_immobilier_assurance_vie",
+      "type": "file",
+      "file": "Assurance-vie (protection paiement hypoth\u00e8que).md",
+      "x": 2600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_remplir_declaration_succession_wallonie_bruxelles_auto_declaration",
+      "type": "file",
+      "file": "Auto-d\u00e9claration de succession.md",
+      "x": 2800,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_remplir_declaration_succession_wallonie_bruxelles_bureau_succession",
+      "type": "file",
+      "file": "Bureau de succession (alternative notaire).md",
+      "x": 3000,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_28_bureau_securite_juridique_bsj",
+      "type": "file",
+      "file": "Bureau de s\u00e9curit\u00e9 juridique (BSJ).md",
+      "x": 2600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_deces_parents_grands_parents_certificat_heredite",
+      "type": "file",
+      "file": "Certificat d'h\u00e9r\u00e9dit\u00e9.md",
+      "x": 2800,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_article_108_succession_documentation_contrer",
+      "type": "file",
+      "file": "Documentation pour contrer l'article 108.md",
+      "x": 3000,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_donation_solution_succession_donation_non_enregistree",
+      "type": "file",
+      "file": "Donation non enregistr\u00e9e (risque 3-5 ans).md",
+      "x": 2600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "type": "file",
+      "file": "D\u00e9claration de succession (WallonieBruxelles).md",
+      "x": 2800,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_39_frais_passif_deductibilite_frais",
+      "type": "file",
+      "file": "D\u00e9ductibilit\u00e9 des frais et passif successoral.md",
+      "x": 3000,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_article_108_succession_delai_3_5_ans",
+      "type": "file",
+      "file": "D\u00e9lai de pr\u00e9somption 3 ans (5 ans Wallonie).md",
+      "x": 2600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_39_frais_passif_frais_funeraires",
+      "type": "file",
+      "file": "Frais fun\u00e9raires (toujours d\u00e9ductibles).md",
+      "x": 2800,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_12_testament_immobilier_hypotheque_heritiers",
+      "type": "file",
+      "file": "Hypoth\u00e8que h\u00e9rit\u00e9e par les h\u00e9ritiers.md",
+      "x": 3000,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_remplir_declaration_succession_wallonie_bruxelles_penalites_fraude",
+      "type": "file",
+      "file": "P\u00e9nalit\u00e9s pour fraude fiscale successorale.md",
+      "x": 2600,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_28_bureau_securite_juridique_spf_finances",
+      "type": "file",
+      "file": "SPF Finances (portail d\u00e9clarations succession).md",
+      "x": 2800,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_12_testament_immobilier_transfert_propriete",
+      "type": "file",
+      "file": "Transfert de propri\u00e9t\u00e9 immobili\u00e8re par testament.md",
+      "x": 3000,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Child Heirs & Reserved Shares",
+      "x": 3760,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "4"
+    },
+    {
+      "id": "n_chapitre_22_enfants_heritiers_action_en_reduction",
+      "type": "file",
+      "file": "Action en r\u00e9duction (r\u00e9cup\u00e9ration r\u00e9serve).md",
+      "x": 3780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_regime_matrimonial_succession_communaute_biens",
+      "type": "file",
+      "file": "Communaut\u00e9 de biens r\u00e9duite aux acquisitions.md",
+      "x": 3980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_regime_matrimonial_succession_communaute_universelle",
+      "type": "file",
+      "file": "Communaut\u00e9 universelle.md",
+      "x": 4180,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_donation_solution_succession_donation",
+      "type": "file",
+      "file": "Donation (planification successorale).md",
+      "x": 3780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_donation_solution_succession_donation_reserve_usufruit",
+      "type": "file",
+      "file": "Donation avec r\u00e9serve d'usufruit.md",
+      "x": 3980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_donation_solution_succession_donation_partage",
+      "type": "file",
+      "file": "Donation-partage.md",
+      "x": 4180,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_deces_parents_grands_parents_heritiers_mineurs",
+      "type": "file",
+      "file": "H\u00e9ritiers mineurs (tuteur requis).md",
+      "x": 3780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_22_enfants_heritiers_indignite_successorale",
+      "type": "file",
+      "file": "Indignit\u00e9 successorale.md",
+      "x": 3980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_regime_matrimonial_succession_liquidation_regime_matrimonial",
+      "type": "file",
+      "file": "Liquidation du r\u00e9gime matrimonial.md",
+      "x": 4180,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_22_enfants_heritiers_nue_propriete",
+      "type": "file",
+      "file": "Nue-propri\u00e9t\u00e9 des enfants (conjoint survivant).md",
+      "x": 3780,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_deces_parents_grands_parents_ordre_heredite",
+      "type": "file",
+      "file": "Ordres d'h\u00e9r\u00e9dit\u00e9 l\u00e9gale belge.md",
+      "x": 3980,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_succession_deces_parents_grands_parents_petits_enfants_heritiers",
+      "type": "file",
+      "file": "Petits-enfants h\u00e9ritiers (d\u00e9c\u00e8s parents).md",
+      "x": 4180,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reserve_patrimoniale_quotite_disponible",
+      "type": "file",
+      "file": "Quotit\u00e9 disponible.md",
+      "x": 3780,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reserve_patrimoniale_reforme_2017",
+      "type": "file",
+      "file": "R\u00e9forme successorale 2017 (r\u00e9serve 50%).md",
+      "x": 3980,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reserve_patrimoniale_reserve_conjoint",
+      "type": "file",
+      "file": "R\u00e9serve du conjoint survivant (usufruit).md",
+      "x": 4180,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_22_enfants_heritiers_reserve",
+      "type": "file",
+      "file": "R\u00e9serve h\u00e9r\u00e9ditaire des enfants.md",
+      "x": 3780,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_22_enfants_heritiers_succession_legale",
+      "type": "file",
+      "file": "Succession l\u00e9gale (sans testament).md",
+      "x": 3980,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_regime_matrimonial_succession_separation_biens",
+      "type": "file",
+      "file": "S\u00e9paration de biens pure.md",
+      "x": 4180,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Advance Directives & Organ Donation",
+      "x": 0,
+      "y": 1200,
+      "width": 1100,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_chapitre_03_declaration_euthanasie_coma_irreversible",
+      "type": "file",
+      "file": "Coma irr\u00e9versible (d\u00e9clencheur euthanasie).md",
+      "x": 20,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_06_testament_quoi_sert_comptes_dormants",
+      "type": "file",
+      "file": "Comptes bancaires dormants (d\u00e9c\u00e8s sans testament).md",
+      "x": 220,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_04_declaration_don_organes_consentement_presume",
+      "type": "file",
+      "file": "Consentement pr\u00e9sum\u00e9 au don d'organes (Belgique).md",
+      "x": 420,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_09_testament_prix_cout_notaire",
+      "type": "file",
+      "file": "Co\u00fbt testament notari\u00e9 (350-400\u20ac).md",
+      "x": 20,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_01_declarations_volonte_anticipees_don_corps_science",
+      "type": "file",
+      "file": "Don du corps \u00e0 la science.md",
+      "x": 220,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_03_declaration_euthanasie_declaration_euthanasie",
+      "type": "file",
+      "file": "D\u00e9claration anticip\u00e9e d'euthanasie.md",
+      "x": 420,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_04_declaration_don_organes_declaration_don_organes",
+      "type": "file",
+      "file": "D\u00e9claration de don d'organes.md",
+      "x": 20,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_01_declarations_volonte_anticipees_declaration_anticipee",
+      "type": "file",
+      "file": "D\u00e9clarations de volont\u00e9 anticip\u00e9es.md",
+      "x": 220,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rediger_soi_meme_testament_notaire_be_depot_notaire",
+      "type": "file",
+      "file": "D\u00e9p\u00f4t du testament chez le notaire.md",
+      "x": 420,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_13_testament_contenu_designation_tuteurs",
+      "type": "file",
+      "file": "D\u00e9signation de tuteurs (enfants mineurs).md",
+      "x": 20,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_13_testament_contenu_legs_specifiques",
+      "type": "file",
+      "file": "Legs sp\u00e9cifiques (donations testamentaires).md",
+      "x": 220,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_01_declarations_volonte_anticipees_preferences_funeraires",
+      "type": "file",
+      "file": "Pr\u00e9f\u00e9rences fun\u00e9raires (d\u00e9claration anticip\u00e9e).md",
+      "x": 420,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_09_testament_prix_registre_central_testaments",
+      "type": "file",
+      "file": "Registre central des testaments.md",
+      "x": 20,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_09_testament_prix_testament_authentique",
+      "type": "file",
+      "file": "Testament authentique (notari\u00e9).md",
+      "x": 220,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_13_testament_contenu_testament_en_ligne",
+      "type": "file",
+      "file": "Testament en ligne (Legacio).md",
+      "x": 420,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rediger_soi_meme_testament_notaire_be_testament_olographe",
+      "type": "file",
+      "file": "Testament olographe (fait maison).md",
+      "x": 20,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_03_declaration_euthanasie_temoins_requis",
+      "type": "file",
+      "file": "T\u00e9moins requis (d\u00e9claration euthanasie).md",
+      "x": 220,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_06_testament_quoi_sert_utilite_testament",
+      "type": "file",
+      "file": "Utilit\u00e9 du testament en Belgique.md",
+      "x": 420,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Will Registration & Succession Definition",
+      "x": 1400,
+      "y": 1200,
+      "width": 880,
+      "height": 720,
+      "color": "6"
+    },
+    {
+      "id": "n_le_testament_notarie_conservation_securisee_testament",
+      "type": "file",
+      "file": "Conservation S\u00e9curis\u00e9e du Testament.md",
+      "x": 1420,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_preparer_son_testament_disposition_biens_immobiliers",
+      "type": "file",
+      "file": "Disposition des Biens Immobiliers dans le Testament.md",
+      "x": 1620,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_definition_succession_droits_de_succession_fiscaux",
+      "type": "file",
+      "file": "Droits de Succession (Fiscalit\u00e9).md",
+      "x": 1820,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_15_testament_retrouver_enregistrement_crt",
+      "type": "file",
+      "file": "Enregistrement au Registre Central des Testaments.md",
+      "x": 1420,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_16_testament_modifier_mise_a_jour_testament",
+      "type": "file",
+      "file": "Mise \u00e0 Jour du Testament.md",
+      "x": 1620,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_le_testament_notarie_registre_central_testaments",
+      "type": "file",
+      "file": "Registre Central des Testaments (CRT).md",
+      "x": 1820,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_le_testament_notarie_reserve_hereditaire",
+      "type": "file",
+      "file": "R\u00e9serve H\u00e9r\u00e9ditaire.md",
+      "x": 1420,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_15_testament_retrouver_stockage_testament",
+      "type": "file",
+      "file": "Stockage Physique S\u00e9curis\u00e9 du Testament.md",
+      "x": 1620,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_definition_succession_succession",
+      "type": "file",
+      "file": "Succession (D\u00e9finition et Types).md",
+      "x": 1820,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_preparer_son_testament_succession_ab_intestat",
+      "type": "file",
+      "file": "Succession Ab Intestat.md",
+      "x": 1420,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_definition_succession_succession_internationale",
+      "type": "file",
+      "file": "Succession Internationale.md",
+      "x": 1620,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_definition_succession_succession_legale",
+      "type": "file",
+      "file": "Succession L\u00e9gale (ab intestat).md",
+      "x": 1820,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_definition_succession_succession_testamentaire",
+      "type": "file",
+      "file": "Succession Testamentaire.md",
+      "x": 1420,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_le_testament_notarie_testament_notarie",
+      "type": "file",
+      "file": "Testament Notari\u00e9 (Authentique).md",
+      "x": 1620,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_preparer_son_testament_testament_olographe",
+      "type": "file",
+      "file": "Testament Olographe.md",
+      "x": 1820,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_16_testament_modifier_evenements_vie_modifiant_testament",
+      "type": "file",
+      "file": "\u00c9v\u00e9nements de Vie N\u00e9cessitant R\u00e9vision Testament.md",
+      "x": 1420,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Acceptance, Refusal & Debt Liability",
+      "x": 2580,
+      "y": 1200,
+      "width": 880,
+      "height": 720,
+      "color": "1"
+    },
+    {
+      "id": "n_acceptation_tacite_succession_acceptation_tacite",
+      "type": "file",
+      "file": "Acceptation Tacite de Succession.md",
+      "x": 2600,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_acceptation_tacite_succession_actes_constitutifs_acceptation",
+      "type": "file",
+      "file": "Actes Constitutifs d'Acceptation Tacite.md",
+      "x": 2800,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_30_mineurs_heritiers_administrateur_legal_mineur",
+      "type": "file",
+      "file": "Administrateur L\u00e9gal du Mineur.md",
+      "x": 3000,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_30_mineurs_heritiers_compte_bloque_mineur",
+      "type": "file",
+      "file": "Compte Bloqu\u00e9 pour H\u00e9ritier Mineur.md",
+      "x": 2600,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_02_declaration_anticipee_negative_declaration_anticipee_negative",
+      "type": "file",
+      "file": "D\u00e9claration Anticip\u00e9e N\u00e9gative (Refus de Soins).md",
+      "x": 2800,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_10_testament_tuteurs_designation_tuteur",
+      "type": "file",
+      "file": "D\u00e9signation d'un Tuteur dans le Testament.md",
+      "x": 3000,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mandat_extrajudiciaire_gestion_patrimoine_incapacite",
+      "type": "file",
+      "file": "Gestion du Patrimoine en Cas d'Incapacit\u00e9.md",
+      "x": 2600,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mandat_extrajudiciaire_incapacite_mandant",
+      "type": "file",
+      "file": "Incapacit\u00e9 du Mandant.md",
+      "x": 2800,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mandat_extrajudiciaire_mandat_extrajudiciaire",
+      "type": "file",
+      "file": "Mandat Extrajudiciaire.md",
+      "x": 3000,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_30_mineurs_heritiers_mineur_heritier",
+      "type": "file",
+      "file": "Mineur H\u00e9ritier dans une Succession.md",
+      "x": 2600,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_belges_refusent_heritage_refus_heritage",
+      "type": "file",
+      "file": "Refus d'H\u00e9ritage pour Limiter les Dettes.md",
+      "x": 2800,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_belges_refusent_heritage_renonciation_succession",
+      "type": "file",
+      "file": "Renonciation \u00e0 la Succession.md",
+      "x": 3000,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_02_declaration_anticipee_negative_representant_designe",
+      "type": "file",
+      "file": "Repr\u00e9sentant D\u00e9sign\u00e9 (D\u00e9claration Anticip\u00e9e).md",
+      "x": 2600,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_acceptation_tacite_succession_responsabilite_dettes_defunt",
+      "type": "file",
+      "file": "Responsabilit\u00e9 des Dettes du D\u00e9funt.md",
+      "x": 2800,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_10_testament_tuteurs_supervision_juge_paix",
+      "type": "file",
+      "file": "Supervision du Juge de Paix sur la Tutelle.md",
+      "x": 3000,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_10_testament_tuteurs_tuteur_legal",
+      "type": "file",
+      "file": "Tuteur L\u00e9gal pour Enfants Mineurs.md",
+      "x": 2600,
+      "y": 1680,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Post-Death Procedures & Certificate",
+      "x": 3760,
+      "y": 1200,
+      "width": 880,
+      "height": 620,
+      "color": "2"
+    },
+    {
+      "id": "n_pension_survie_allocation_de_transition",
+      "type": "file",
+      "file": "Allocation de Transition.md",
+      "x": 3780,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "type": "file",
+      "file": "Certificat d'H\u00e9r\u00e9dit\u00e9.md",
+      "x": 3980,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_32_etapes_succession_comptes_en_desherence",
+      "type": "file",
+      "file": "Comptes Bancaires en D\u00e9sh\u00e9rence.md",
+      "x": 4180,
+      "y": 1280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pension_survie_conditions_admissibilite_pension",
+      "type": "file",
+      "file": "Conditions d'Admissibilit\u00e9 \u00e0 la Pension de Survie.md",
+      "x": 3780,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_21_certificat_heredite_certificat_gratuit_conditions",
+      "type": "file",
+      "file": "Conditions pour Certificat d'H\u00e9r\u00e9dit\u00e9 Gratuit.md",
+      "x": 3980,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_32_etapes_succession_deblocage_comptes_bancaires",
+      "type": "file",
+      "file": "D\u00e9blocage des Comptes Bancaires.md",
+      "x": 4180,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_31_demarches_apres_deces_formalites_post_deces",
+      "type": "file",
+      "file": "Formalit\u00e9s Administratives Post-D\u00e9c\u00e8s.md",
+      "x": 3780,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_17_succession_demarches_gel_comptes_bancaires",
+      "type": "file",
+      "file": "Gel des Comptes Bancaires au D\u00e9c\u00e8s.md",
+      "x": 3980,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_31_demarches_apres_deces_gestion_contrats",
+      "type": "file",
+      "file": "Gestion des Contrats et Abonnements.md",
+      "x": 4180,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_31_demarches_apres_deces_gestion_vehicules",
+      "type": "file",
+      "file": "Gestion des V\u00e9hicules apr\u00e8s D\u00e9c\u00e8s.md",
+      "x": 3780,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_31_demarches_apres_deces_notification_organismes",
+      "type": "file",
+      "file": "Notification des Organismes Concern\u00e9s.md",
+      "x": 3980,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_17_succession_demarches_ouverture_succession",
+      "type": "file",
+      "file": "Ouverture de la Succession.md",
+      "x": 4180,
+      "y": 1520,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pension_survie_pension_de_survie",
+      "type": "file",
+      "file": "Pension de Survie.md",
+      "x": 3780,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_21_certificat_heredite_myminfin",
+      "type": "file",
+      "file": "Portail MyMinfin (Demande Certificat en Ligne).md",
+      "x": 3980,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_32_etapes_succession_etapes_succession",
+      "type": "file",
+      "file": "\u00c9tapes Clefs de la Succession.md",
+      "x": 4180,
+      "y": 1600,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Declaration Filing & Notary Services",
+      "x": 0,
+      "y": 2000,
+      "width": 880,
+      "height": 520,
+      "color": "3"
+    },
+    {
+      "id": "n_chapitre_26_declaration_succession_bureau_securite_juridique",
+      "type": "file",
+      "file": "Bureau de S\u00e9curit\u00e9 Juridique.md",
+      "x": 20,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_preparer_son_testament_couts_testament",
+      "type": "file",
+      "file": "Co\u00fbts de Pr\u00e9paration du Testament.md",
+      "x": 220,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_26_declaration_succession_dispense_declaration",
+      "type": "file",
+      "file": "Dispense de D\u00e9claration de Succession.md",
+      "x": 420,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_17_succession_demarches_division_patrimoine",
+      "type": "file",
+      "file": "Division du Patrimoine Successoral.md",
+      "x": 20,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "type": "file",
+      "file": "D\u00e9claration de Succession.md",
+      "x": 220,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_26_declaration_succession_delais_depot",
+      "type": "file",
+      "file": "D\u00e9lais de D\u00e9p\u00f4t de la D\u00e9claration de Succession.md",
+      "x": 420,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_17_succession_demarches_droits_de_succession",
+      "type": "file",
+      "file": "Paiement des Droits de Succession.md",
+      "x": 20,
+      "y": 2240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_19_succession_sans_notaire_risques_erreurs_succession",
+      "type": "file",
+      "file": "Risques d'Erreurs dans la D\u00e9claration de Succession.md",
+      "x": 220,
+      "y": 2240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_19_succession_sans_notaire_succession_diy",
+      "type": "file",
+      "file": "Succession Sans Notaire (DIY).md",
+      "x": 420,
+      "y": 2240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_19_succession_sans_notaire_tarification_notaire",
+      "type": "file",
+      "file": "Tarification des Services Notariaux.md",
+      "x": 20,
+      "y": 2320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "End-of-Life Declarations & Body Donation",
+      "x": 1400,
+      "y": 2000,
+      "width": 660,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_chapitre_05_don_corps_science_refusal_conditions",
+      "type": "file",
+      "file": "Conditions for University Refusal of Body Donation.md",
+      "x": 1420,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_05_don_corps_science_body_donation",
+      "type": "file",
+      "file": "Don du Corps \u00e0 la Science (Body Donation to Science).md",
+      "x": 1620,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_anticiper_declarations_volonte_negative_declaration",
+      "type": "file",
+      "file": "D\u00e9claration Anticip\u00e9e N\u00e9gative (Refusal of Life-Prolonging Treatment).md",
+      "x": 1820,
+      "y": 2080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_anticiper_declarations_volonte_euthanasia_declaration",
+      "type": "file",
+      "file": "D\u00e9claration d'Euthanasie (Euthanasia Declaration).md",
+      "x": 1420,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_anticiper_declarations_volonte_organ_donation",
+      "type": "file",
+      "file": "D\u00e9claration de Don d'Organes (Organ Donation Declaration).md",
+      "x": 1620,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_guide_anticiper_declarations_volonte_advance_directives",
+      "type": "file",
+      "file": "D\u00e9clarations Anticip\u00e9es de Volont\u00e9 (Advance Directives).md",
+      "x": 1820,
+      "y": 2160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chapitre_05_don_corps_science_university_procedure",
+      "type": "file",
+      "file": "University Body Donation Procedure (Belgium).md",
+      "x": 1420,
+      "y": 2240,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_declaration_succession_remplir_declaration_succession_wallonie_bruxelles_auto_declaration",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "toNode": "n_remplir_declaration_succession_wallonie_bruxelles_auto_declaration",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_declaration_succession_remplir_declaration_succession_wallonie_bruxelles_bureau_succession",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "toNode": "n_remplir_declaration_succession_wallonie_bruxelles_bureau_succession",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_declaration_succession_regime_matrimonial_succession_liquidation_regime_matrimonial",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "toNode": "n_regime_matrimonial_succession_liquidation_regime_matrimonial",
+      "label": "precedes [EXTRACTED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_auto_declaration_remplir_declaration_succession_wallonie_bruxelles_penalites_fraude",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_auto_declaration",
+      "toNode": "n_remplir_declaration_succession_wallonie_bruxelles_penalites_fraude",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_succession_legale_chapitre_22_enfants_heritiers_reserve",
+      "fromNode": "n_chapitre_22_enfants_heritiers_succession_legale",
+      "toNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_chapitre_22_enfants_heritiers_nue_propriete",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_chapitre_22_enfants_heritiers_nue_propriete",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_chapitre_22_enfants_heritiers_action_en_reduction",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_chapitre_22_enfants_heritiers_action_en_reduction",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_chapitre_22_enfants_heritiers_indignite_successorale",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_chapitre_22_enfants_heritiers_indignite_successorale",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_reserve_patrimoniale_reforme_2017",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_reserve_patrimoniale_reforme_2017",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_reserve_patrimoniale_quotite_disponible",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_reserve_patrimoniale_quotite_disponible",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_nue_propriete_reserve_patrimoniale_reserve_conjoint",
+      "fromNode": "n_chapitre_22_enfants_heritiers_nue_propriete",
+      "toNode": "n_reserve_patrimoniale_reserve_conjoint",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_donation_solution_succession_donation_donation_solution_succession_donation_partage",
+      "fromNode": "n_donation_solution_succession_donation",
+      "toNode": "n_donation_solution_succession_donation_partage",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_donation_solution_succession_donation_donation_solution_succession_donation_reserve_usufruit",
+      "fromNode": "n_donation_solution_succession_donation",
+      "toNode": "n_donation_solution_succession_donation_reserve_usufruit",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_donation_solution_succession_donation_donation_solution_succession_donation_non_enregistree",
+      "fromNode": "n_donation_solution_succession_donation",
+      "toNode": "n_donation_solution_succession_donation_non_enregistree",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_succession_deces_parents_grands_parents_petits_enfants_heritiers_succession_deces_parents_grands_parents_ordre_heredite",
+      "fromNode": "n_succession_deces_parents_grands_parents_petits_enfants_heritiers",
+      "toNode": "n_succession_deces_parents_grands_parents_ordre_heredite",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_succession_deces_parents_grands_parents_petits_enfants_heritiers_succession_deces_parents_grands_parents_certificat_heredite",
+      "fromNode": "n_succession_deces_parents_grands_parents_petits_enfants_heritiers",
+      "toNode": "n_succession_deces_parents_grands_parents_certificat_heredite",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_succession_deces_parents_grands_parents_petits_enfants_heritiers_succession_deces_parents_grands_parents_heritiers_mineurs",
+      "fromNode": "n_succession_deces_parents_grands_parents_petits_enfants_heritiers",
+      "toNode": "n_succession_deces_parents_grands_parents_heritiers_mineurs",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_succession_deces_parents_grands_parents_certificat_heredite_chapitre_28_bureau_securite_juridique_bsj",
+      "fromNode": "n_succession_deces_parents_grands_parents_certificat_heredite",
+      "toNode": "n_chapitre_28_bureau_securite_juridique_bsj",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_39_frais_passif_actif_net_succession_chapitre_39_frais_passif_deductibilite_frais",
+      "fromNode": "n_chapitre_39_frais_passif_actif_net_succession",
+      "toNode": "n_chapitre_39_frais_passif_deductibilite_frais",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_39_frais_passif_deductibilite_frais_chapitre_39_frais_passif_frais_funeraires",
+      "fromNode": "n_chapitre_39_frais_passif_deductibilite_frais",
+      "toNode": "n_chapitre_39_frais_passif_frais_funeraires",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_12_testament_immobilier_transfert_propriete_chapitre_12_testament_immobilier_hypotheque_heritiers",
+      "fromNode": "n_chapitre_12_testament_immobilier_transfert_propriete",
+      "toNode": "n_chapitre_12_testament_immobilier_hypotheque_heritiers",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_12_testament_immobilier_hypotheque_heritiers_chapitre_12_testament_immobilier_assurance_vie",
+      "fromNode": "n_chapitre_12_testament_immobilier_hypotheque_heritiers",
+      "toNode": "n_chapitre_12_testament_immobilier_assurance_vie",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_12_testament_immobilier_hypotheque_heritiers_chapitre_12_testament_immobilier_acceptation_inventaire",
+      "fromNode": "n_chapitre_12_testament_immobilier_hypotheque_heritiers",
+      "toNode": "n_chapitre_12_testament_immobilier_acceptation_inventaire",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_article_108_succession_presomption_fiscale_article_108_succession_delai_3_5_ans",
+      "fromNode": "n_article_108_succession_presomption_fiscale",
+      "toNode": "n_article_108_succession_delai_3_5_ans",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_article_108_succession_presomption_fiscale_article_108_succession_documentation_contrer",
+      "fromNode": "n_article_108_succession_presomption_fiscale",
+      "toNode": "n_article_108_succession_documentation_contrer",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_13_testament_contenu_testament_en_ligne_chapitre_13_testament_contenu_legs_specifiques",
+      "fromNode": "n_chapitre_13_testament_contenu_testament_en_ligne",
+      "toNode": "n_chapitre_13_testament_contenu_legs_specifiques",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_13_testament_contenu_testament_en_ligne_chapitre_13_testament_contenu_designation_tuteurs",
+      "fromNode": "n_chapitre_13_testament_contenu_testament_en_ligne",
+      "toNode": "n_chapitre_13_testament_contenu_designation_tuteurs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_13_testament_contenu_testament_en_ligne_chapitre_09_testament_prix_testament_authentique",
+      "fromNode": "n_chapitre_13_testament_contenu_testament_en_ligne",
+      "toNode": "n_chapitre_09_testament_prix_testament_authentique",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_13_testament_contenu_designation_tuteurs_chapitre_06_testament_quoi_sert_utilite_testament",
+      "fromNode": "n_chapitre_13_testament_contenu_designation_tuteurs",
+      "toNode": "n_chapitre_06_testament_quoi_sert_utilite_testament",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_01_declarations_volonte_anticipees_declaration_anticipee_chapitre_03_declaration_euthanasie_declaration_euthanasie",
+      "fromNode": "n_chapitre_01_declarations_volonte_anticipees_declaration_anticipee",
+      "toNode": "n_chapitre_03_declaration_euthanasie_declaration_euthanasie",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_01_declarations_volonte_anticipees_declaration_anticipee_chapitre_04_declaration_don_organes_declaration_don_organes",
+      "fromNode": "n_chapitre_01_declarations_volonte_anticipees_declaration_anticipee",
+      "toNode": "n_chapitre_04_declaration_don_organes_declaration_don_organes",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_01_declarations_volonte_anticipees_declaration_anticipee_chapitre_01_declarations_volonte_anticipees_preferences_funeraires",
+      "fromNode": "n_chapitre_01_declarations_volonte_anticipees_declaration_anticipee",
+      "toNode": "n_chapitre_01_declarations_volonte_anticipees_preferences_funeraires",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_01_declarations_volonte_anticipees_declaration_anticipee_chapitre_01_declarations_volonte_anticipees_don_corps_science",
+      "fromNode": "n_chapitre_01_declarations_volonte_anticipees_declaration_anticipee",
+      "toNode": "n_chapitre_01_declarations_volonte_anticipees_don_corps_science",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_04_declaration_don_organes_consentement_presume_chapitre_04_declaration_don_organes_declaration_don_organes",
+      "fromNode": "n_chapitre_04_declaration_don_organes_consentement_presume",
+      "toNode": "n_chapitre_04_declaration_don_organes_declaration_don_organes",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_09_testament_prix_testament_authentique_chapitre_09_testament_prix_cout_notaire",
+      "fromNode": "n_chapitre_09_testament_prix_testament_authentique",
+      "toNode": "n_chapitre_09_testament_prix_cout_notaire",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_09_testament_prix_testament_authentique_chapitre_09_testament_prix_registre_central_testaments",
+      "fromNode": "n_chapitre_09_testament_prix_testament_authentique",
+      "toNode": "n_chapitre_09_testament_prix_registre_central_testaments",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_03_declaration_euthanasie_declaration_euthanasie_chapitre_03_declaration_euthanasie_coma_irreversible",
+      "fromNode": "n_chapitre_03_declaration_euthanasie_declaration_euthanasie",
+      "toNode": "n_chapitre_03_declaration_euthanasie_coma_irreversible",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_03_declaration_euthanasie_declaration_euthanasie_chapitre_03_declaration_euthanasie_temoins_requis",
+      "fromNode": "n_chapitre_03_declaration_euthanasie_declaration_euthanasie",
+      "toNode": "n_chapitre_03_declaration_euthanasie_temoins_requis",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_06_testament_quoi_sert_utilite_testament_chapitre_06_testament_quoi_sert_comptes_dormants",
+      "fromNode": "n_chapitre_06_testament_quoi_sert_utilite_testament",
+      "toNode": "n_chapitre_06_testament_quoi_sert_comptes_dormants",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_28_bureau_securite_juridique_bsj_chapitre_28_bureau_securite_juridique_spf_finances",
+      "fromNode": "n_chapitre_28_bureau_securite_juridique_bsj",
+      "toNode": "n_chapitre_28_bureau_securite_juridique_spf_finances",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_regime_matrimonial_succession_liquidation_regime_matrimonial_regime_matrimonial_succession_communaute_biens",
+      "fromNode": "n_regime_matrimonial_succession_liquidation_regime_matrimonial",
+      "toNode": "n_regime_matrimonial_succession_communaute_biens",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_regime_matrimonial_succession_liquidation_regime_matrimonial_regime_matrimonial_succession_separation_biens",
+      "fromNode": "n_regime_matrimonial_succession_liquidation_regime_matrimonial",
+      "toNode": "n_regime_matrimonial_succession_separation_biens",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_regime_matrimonial_succession_liquidation_regime_matrimonial_regime_matrimonial_succession_communaute_universelle",
+      "fromNode": "n_regime_matrimonial_succession_liquidation_regime_matrimonial",
+      "toNode": "n_regime_matrimonial_succession_communaute_universelle",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_rediger_soi_meme_testament_notaire_be_testament_olographe_rediger_soi_meme_testament_notaire_be_depot_notaire",
+      "fromNode": "n_rediger_soi_meme_testament_notaire_be_testament_olographe",
+      "toNode": "n_rediger_soi_meme_testament_notaire_be_depot_notaire",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_31_demarches_apres_deces_formalites_post_deces_chapitre_31_demarches_apres_deces_notification_organismes",
+      "fromNode": "n_chapitre_31_demarches_apres_deces_formalites_post_deces",
+      "toNode": "n_chapitre_31_demarches_apres_deces_notification_organismes",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_31_demarches_apres_deces_formalites_post_deces_chapitre_31_demarches_apres_deces_gestion_vehicules",
+      "fromNode": "n_chapitre_31_demarches_apres_deces_formalites_post_deces",
+      "toNode": "n_chapitre_31_demarches_apres_deces_gestion_vehicules",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_31_demarches_apres_deces_formalites_post_deces_chapitre_31_demarches_apres_deces_gestion_contrats",
+      "fromNode": "n_chapitre_31_demarches_apres_deces_formalites_post_deces",
+      "toNode": "n_chapitre_31_demarches_apres_deces_gestion_contrats",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_le_testament_notarie_testament_notarie_le_testament_notarie_conservation_securisee_testament",
+      "fromNode": "n_le_testament_notarie_testament_notarie",
+      "toNode": "n_le_testament_notarie_conservation_securisee_testament",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_le_testament_notarie_testament_notarie_le_testament_notarie_registre_central_testaments",
+      "fromNode": "n_le_testament_notarie_testament_notarie",
+      "toNode": "n_le_testament_notarie_registre_central_testaments",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_le_testament_notarie_testament_notarie_le_testament_notarie_reserve_hereditaire",
+      "fromNode": "n_le_testament_notarie_testament_notarie",
+      "toNode": "n_le_testament_notarie_reserve_hereditaire",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_le_testament_notarie_registre_central_testaments_chapitre_15_testament_retrouver_enregistrement_crt",
+      "fromNode": "n_le_testament_notarie_registre_central_testaments",
+      "toNode": "n_chapitre_15_testament_retrouver_enregistrement_crt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_ouverture_succession_chapitre_17_succession_demarches_gel_comptes_bancaires",
+      "fromNode": "n_chapitre_17_succession_demarches_ouverture_succession",
+      "toNode": "n_chapitre_17_succession_demarches_gel_comptes_bancaires",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_ouverture_succession_chapitre_26_declaration_succession_declaration_de_succession",
+      "fromNode": "n_chapitre_17_succession_demarches_ouverture_succession",
+      "toNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_gel_comptes_bancaires_chapitre_21_certificat_heredite_certificat_heredite",
+      "fromNode": "n_chapitre_17_succession_demarches_gel_comptes_bancaires",
+      "toNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_droits_de_succession_chapitre_26_declaration_succession_declaration_de_succession",
+      "fromNode": "n_chapitre_17_succession_demarches_droits_de_succession",
+      "toNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_droits_de_succession_chapitre_17_succession_demarches_division_patrimoine",
+      "fromNode": "n_chapitre_17_succession_demarches_droits_de_succession",
+      "toNode": "n_chapitre_17_succession_demarches_division_patrimoine",
+      "label": "precedes [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_19_succession_sans_notaire_succession_diy_chapitre_26_declaration_succession_declaration_de_succession",
+      "fromNode": "n_chapitre_19_succession_sans_notaire_succession_diy",
+      "toNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_19_succession_sans_notaire_succession_diy_chapitre_19_succession_sans_notaire_tarification_notaire",
+      "fromNode": "n_chapitre_19_succession_sans_notaire_succession_diy",
+      "toNode": "n_chapitre_19_succession_sans_notaire_tarification_notaire",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_19_succession_sans_notaire_risques_erreurs_succession_chapitre_26_declaration_succession_declaration_de_succession",
+      "fromNode": "n_chapitre_19_succession_sans_notaire_risques_erreurs_succession",
+      "toNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_acceptation_tacite_succession_acceptation_tacite_acceptation_tacite_succession_actes_constitutifs_acceptation",
+      "fromNode": "n_acceptation_tacite_succession_acceptation_tacite",
+      "toNode": "n_acceptation_tacite_succession_actes_constitutifs_acceptation",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_acceptation_tacite_succession_acceptation_tacite_acceptation_tacite_succession_responsabilite_dettes_defunt",
+      "fromNode": "n_acceptation_tacite_succession_acceptation_tacite",
+      "toNode": "n_acceptation_tacite_succession_responsabilite_dettes_defunt",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_acceptation_tacite_succession_responsabilite_dettes_defunt_belges_refusent_heritage_renonciation_succession",
+      "fromNode": "n_acceptation_tacite_succession_responsabilite_dettes_defunt",
+      "toNode": "n_belges_refusent_heritage_renonciation_succession",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_belges_refusent_heritage_refus_heritage_belges_refusent_heritage_renonciation_succession",
+      "fromNode": "n_belges_refusent_heritage_refus_heritage",
+      "toNode": "n_belges_refusent_heritage_renonciation_succession",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_16_testament_modifier_mise_a_jour_testament_chapitre_16_testament_modifier_evenements_vie_modifiant_testament",
+      "fromNode": "n_chapitre_16_testament_modifier_mise_a_jour_testament",
+      "toNode": "n_chapitre_16_testament_modifier_evenements_vie_modifiant_testament",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_32_etapes_succession_etapes_succession_chapitre_21_certificat_heredite_certificat_heredite",
+      "fromNode": "n_chapitre_32_etapes_succession_etapes_succession",
+      "toNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_32_etapes_succession_etapes_succession_chapitre_26_declaration_succession_declaration_de_succession",
+      "fromNode": "n_chapitre_32_etapes_succession_etapes_succession",
+      "toNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_32_etapes_succession_deblocage_comptes_bancaires_chapitre_21_certificat_heredite_certificat_heredite",
+      "fromNode": "n_chapitre_32_etapes_succession_deblocage_comptes_bancaires",
+      "toNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_32_etapes_succession_deblocage_comptes_bancaires_chapitre_32_etapes_succession_comptes_en_desherence",
+      "fromNode": "n_chapitre_32_etapes_succession_deblocage_comptes_bancaires",
+      "toNode": "n_chapitre_32_etapes_succession_comptes_en_desherence",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_10_testament_tuteurs_tuteur_legal_chapitre_10_testament_tuteurs_designation_tuteur",
+      "fromNode": "n_chapitre_10_testament_tuteurs_tuteur_legal",
+      "toNode": "n_chapitre_10_testament_tuteurs_designation_tuteur",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_10_testament_tuteurs_tuteur_legal_chapitre_10_testament_tuteurs_supervision_juge_paix",
+      "fromNode": "n_chapitre_10_testament_tuteurs_tuteur_legal",
+      "toNode": "n_chapitre_10_testament_tuteurs_supervision_juge_paix",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_26_declaration_succession_declaration_de_succession_chapitre_26_declaration_succession_delais_depot",
+      "fromNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "toNode": "n_chapitre_26_declaration_succession_delais_depot",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_26_declaration_succession_declaration_de_succession_chapitre_26_declaration_succession_bureau_securite_juridique",
+      "fromNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "toNode": "n_chapitre_26_declaration_succession_bureau_securite_juridique",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_26_declaration_succession_declaration_de_succession_chapitre_26_declaration_succession_dispense_declaration",
+      "fromNode": "n_chapitre_26_declaration_succession_declaration_de_succession",
+      "toNode": "n_chapitre_26_declaration_succession_dispense_declaration",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_15_testament_retrouver_enregistrement_crt_chapitre_15_testament_retrouver_stockage_testament",
+      "fromNode": "n_chapitre_15_testament_retrouver_enregistrement_crt",
+      "toNode": "n_chapitre_15_testament_retrouver_stockage_testament",
+      "label": "precedes [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_21_certificat_heredite_certificat_heredite_chapitre_21_certificat_heredite_myminfin",
+      "fromNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "toNode": "n_chapitre_21_certificat_heredite_myminfin",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_21_certificat_heredite_certificat_heredite_chapitre_21_certificat_heredite_certificat_gratuit_conditions",
+      "fromNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "toNode": "n_chapitre_21_certificat_heredite_certificat_gratuit_conditions",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_21_certificat_heredite_certificat_heredite_pension_survie_pension_de_survie",
+      "fromNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "toNode": "n_pension_survie_pension_de_survie",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_30_mineurs_heritiers_mineur_heritier_chapitre_30_mineurs_heritiers_administrateur_legal_mineur",
+      "fromNode": "n_chapitre_30_mineurs_heritiers_mineur_heritier",
+      "toNode": "n_chapitre_30_mineurs_heritiers_administrateur_legal_mineur",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_30_mineurs_heritiers_mineur_heritier_chapitre_30_mineurs_heritiers_compte_bloque_mineur",
+      "fromNode": "n_chapitre_30_mineurs_heritiers_mineur_heritier",
+      "toNode": "n_chapitre_30_mineurs_heritiers_compte_bloque_mineur",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_02_declaration_anticipee_negative_declaration_anticipee_negative_chapitre_02_declaration_anticipee_negative_representant_designe",
+      "fromNode": "n_chapitre_02_declaration_anticipee_negative_declaration_anticipee_negative",
+      "toNode": "n_chapitre_02_declaration_anticipee_negative_representant_designe",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_mandat_extrajudiciaire_mandat_extrajudiciaire_mandat_extrajudiciaire_incapacite_mandant",
+      "fromNode": "n_mandat_extrajudiciaire_mandat_extrajudiciaire",
+      "toNode": "n_mandat_extrajudiciaire_incapacite_mandant",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_mandat_extrajudiciaire_incapacite_mandant_mandat_extrajudiciaire_gestion_patrimoine_incapacite",
+      "fromNode": "n_mandat_extrajudiciaire_incapacite_mandant",
+      "toNode": "n_mandat_extrajudiciaire_gestion_patrimoine_incapacite",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_pension_survie_pension_de_survie_pension_survie_conditions_admissibilite_pension",
+      "fromNode": "n_pension_survie_pension_de_survie",
+      "toNode": "n_pension_survie_conditions_admissibilite_pension",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_pension_survie_pension_de_survie_pension_survie_allocation_de_transition",
+      "fromNode": "n_pension_survie_pension_de_survie",
+      "toNode": "n_pension_survie_allocation_de_transition",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_definition_succession_succession_definition_succession_succession_legale",
+      "fromNode": "n_definition_succession_succession",
+      "toNode": "n_definition_succession_succession_legale",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_definition_succession_succession_definition_succession_succession_testamentaire",
+      "fromNode": "n_definition_succession_succession",
+      "toNode": "n_definition_succession_succession_testamentaire",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_definition_succession_succession_definition_succession_succession_internationale",
+      "fromNode": "n_definition_succession_succession",
+      "toNode": "n_definition_succession_succession_internationale",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_definition_succession_succession_definition_succession_droits_de_succession_fiscaux",
+      "fromNode": "n_definition_succession_succession",
+      "toNode": "n_definition_succession_droits_de_succession_fiscaux",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_08_testament_olographe_validity_requirements",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_08_testament_olographe_validity_requirements",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_08_testament_olographe_registre_central_testaments",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_08_testament_olographe_registre_central_testaments",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_08_testament_olographe_codicille",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_08_testament_olographe_codicille",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_08_testament_olographe_legs_types",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_08_testament_olographe_legs_types",
+      "label": "enables [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_35_saut_generation_generation_skipping_chapitre_35_saut_generation_renunciation_declaration",
+      "fromNode": "n_chapitre_35_saut_generation_generation_skipping",
+      "toNode": "n_chapitre_35_saut_generation_renunciation_declaration",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_35_saut_generation_generation_skipping_chapitre_35_saut_generation_regional_tax_differences",
+      "fromNode": "n_chapitre_35_saut_generation_generation_skipping",
+      "toNode": "n_chapitre_35_saut_generation_regional_tax_differences",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_05_don_corps_science_body_donation_chapitre_05_don_corps_science_university_procedure",
+      "fromNode": "n_chapitre_05_don_corps_science_body_donation",
+      "toNode": "n_chapitre_05_don_corps_science_university_procedure",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_05_don_corps_science_body_donation_chapitre_05_don_corps_science_refusal_conditions",
+      "fromNode": "n_chapitre_05_don_corps_science_body_donation",
+      "toNode": "n_chapitre_05_don_corps_science_refusal_conditions",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_05_don_corps_science_body_donation_guide_anticiper_declarations_volonte_advance_directives",
+      "fromNode": "n_chapitre_05_don_corps_science_body_donation",
+      "toNode": "n_guide_anticiper_declarations_volonte_advance_directives",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_surviving_spouse_rights_chapitre_23_conjoint_survivant_usufruit",
+      "fromNode": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "toNode": "n_chapitre_23_conjoint_survivant_usufruit",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_surviving_spouse_rights_chapitre_23_conjoint_survivant_nue_propriete",
+      "fromNode": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "toNode": "n_chapitre_23_conjoint_survivant_nue_propriete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_surviving_spouse_rights_chapitre_23_conjoint_survivant_reserve_conjoint",
+      "fromNode": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "toNode": "n_chapitre_23_conjoint_survivant_reserve_conjoint",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_surviving_spouse_rights_chapitre_23_conjoint_survivant_maison_familiale_exemption",
+      "fromNode": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "toNode": "n_chapitre_23_conjoint_survivant_maison_familiale_exemption",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_surviving_spouse_rights_chapitre_23_conjoint_survivant_regime_matrimonial",
+      "fromNode": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "toNode": "n_chapitre_23_conjoint_survivant_regime_matrimonial",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_usufruit_chapitre_23_conjoint_survivant_nue_propriete",
+      "fromNode": "n_chapitre_23_conjoint_survivant_usufruit",
+      "toNode": "n_chapitre_23_conjoint_survivant_nue_propriete",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_temps_notaire_succession_legal_deadlines_temps_notaire_succession_late_filing_penalties",
+      "fromNode": "n_temps_notaire_succession_legal_deadlines",
+      "toNode": "n_temps_notaire_succession_late_filing_penalties",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_temps_notaire_succession_legal_deadlines_temps_notaire_succession_obligation_moyens",
+      "fromNode": "n_temps_notaire_succession_legal_deadlines",
+      "toNode": "n_temps_notaire_succession_obligation_moyens",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_reserve_legale_chapitre_27_repartition_heritage_quotite_disponible",
+      "fromNode": "n_chapitre_27_repartition_heritage_reserve_legale",
+      "toNode": "n_chapitre_27_repartition_heritage_quotite_disponible",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_reserve_legale_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "fromNode": "n_chapitre_27_repartition_heritage_reserve_legale",
+      "toNode": "n_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "label": "requires [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_ordre_succession_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "fromNode": "n_chapitre_27_repartition_heritage_ordre_succession",
+      "toNode": "n_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_abattements_succession_tax_allowances_abattements_succession_family_business_relief",
+      "fromNode": "n_abattements_succession_tax_allowances",
+      "toNode": "n_abattements_succession_family_business_relief",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_abattements_succession_tax_allowances_abattements_succession_double_inheritance_reduction",
+      "fromNode": "n_abattements_succession_tax_allowances",
+      "toNode": "n_abattements_succession_double_inheritance_reduction",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_guide_succession_apres_deces_process_overview_guide_succession_apres_deces_certificat_heredite",
+      "fromNode": "n_guide_succession_apres_deces_process_overview",
+      "toNode": "n_guide_succession_apres_deces_certificat_heredite",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_guide_succession_apres_deces_process_overview_guide_succession_apres_deces_deblocage_bancaire",
+      "fromNode": "n_guide_succession_apres_deces_process_overview",
+      "toNode": "n_guide_succession_apres_deces_deblocage_bancaire",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_guide_succession_apres_deces_certificat_heredite_chapitre_24_couts_succession_total_costs",
+      "fromNode": "n_guide_succession_apres_deces_certificat_heredite",
+      "toNode": "n_chapitre_24_couts_succession_total_costs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_succession_freres_soeurs_sibling_succession_succession_freres_soeurs_sibling_tax_rates",
+      "fromNode": "n_succession_freres_soeurs_sibling_succession",
+      "toNode": "n_succession_freres_soeurs_sibling_tax_rates",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_succession_freres_soeurs_sibling_succession_succession_freres_soeurs_donations_planning",
+      "fromNode": "n_succession_freres_soeurs_sibling_succession",
+      "toNode": "n_succession_freres_soeurs_donations_planning",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_24_couts_succession_total_costs_chapitre_24_couts_succession_funeral_costs",
+      "fromNode": "n_chapitre_24_couts_succession_total_costs",
+      "toNode": "n_chapitre_24_couts_succession_funeral_costs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_24_couts_succession_total_costs_chapitre_24_couts_succession_droits_succession",
+      "fromNode": "n_chapitre_24_couts_succession_total_costs",
+      "toNode": "n_chapitre_24_couts_succession_droits_succession",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_29_frais_notaire_notary_fees_chapitre_29_frais_notaire_fee_calculation",
+      "fromNode": "n_chapitre_29_frais_notaire_notary_fees",
+      "toNode": "n_chapitre_29_frais_notaire_fee_calculation",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_29_frais_notaire_notary_fees_chapitre_29_frais_notaire_legacio_alternative",
+      "fromNode": "n_chapitre_29_frais_notaire_notary_fees",
+      "toNode": "n_chapitre_29_frais_notaire_legacio_alternative",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_37_heritier_legataire_heir_vs_legatee_chapitre_37_heritier_legataire_legatee_types",
+      "fromNode": "n_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "toNode": "n_chapitre_37_heritier_legataire_legatee_types",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_37_heritier_legataire_heir_vs_legatee_chapitre_37_heritier_legataire_debt_liability",
+      "fromNode": "n_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "toNode": "n_chapitre_37_heritier_legataire_debt_liability",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_declaration_succession_notairebe_official_declaration_declaration_succession_notairebe_content_requirements",
+      "fromNode": "n_declaration_succession_notairebe_official_declaration",
+      "toNode": "n_declaration_succession_notairebe_content_requirements",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_34_payer_factures_bank_freeze_chapitre_34_payer_factures_emergency_access",
+      "fromNode": "n_chapitre_34_payer_factures_bank_freeze",
+      "toNode": "n_chapitre_34_payer_factures_emergency_access",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_guide_anticiper_declarations_volonte_advance_directives_guide_anticiper_declarations_volonte_euthanasia_declaration",
+      "fromNode": "n_guide_anticiper_declarations_volonte_advance_directives",
+      "toNode": "n_guide_anticiper_declarations_volonte_euthanasia_declaration",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_guide_anticiper_declarations_volonte_advance_directives_guide_anticiper_declarations_volonte_organ_donation",
+      "fromNode": "n_guide_anticiper_declarations_volonte_advance_directives",
+      "toNode": "n_guide_anticiper_declarations_volonte_organ_donation",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_guide_anticiper_declarations_volonte_advance_directives_guide_anticiper_declarations_volonte_negative_declaration",
+      "fromNode": "n_guide_anticiper_declarations_volonte_advance_directives",
+      "toNode": "n_guide_anticiper_declarations_volonte_negative_declaration",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_flandre_self_filing_remplir_declaration_succession_flandre_filing_risks",
+      "fromNode": "n_remplir_declaration_succession_flandre_self_filing",
+      "toNode": "n_remplir_declaration_succession_flandre_filing_risks",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_07_testament_pas_testament_intestate_succession_chapitre_07_testament_pas_testament_five_principles",
+      "fromNode": "n_chapitre_07_testament_pas_testament_intestate_succession",
+      "toNode": "n_chapitre_07_testament_pas_testament_five_principles",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_chapitre_07_testament_pas_testament_intestate_succession_chapitre_07_testament_pas_testament_excluded_persons",
+      "fromNode": "n_chapitre_07_testament_pas_testament_intestate_succession",
+      "toNode": "n_chapitre_07_testament_pas_testament_excluded_persons",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_donation_solution_succession_donation_non_enregistree_article_108_succession_delai_3_5_ans",
+      "fromNode": "n_donation_solution_succession_donation_non_enregistree",
+      "toNode": "n_article_108_succession_delai_3_5_ans",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_le_testament_notarie_testament_notarie_definition_succession_succession_testamentaire",
+      "fromNode": "n_le_testament_notarie_testament_notarie",
+      "toNode": "n_definition_succession_succession_testamentaire",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_ouverture_succession_definition_succession_succession",
+      "fromNode": "n_chapitre_17_succession_demarches_ouverture_succession",
+      "toNode": "n_definition_succession_succession",
+      "label": "precedes [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_gel_comptes_bancaires_chapitre_32_etapes_succession_deblocage_comptes_bancaires",
+      "fromNode": "n_chapitre_17_succession_demarches_gel_comptes_bancaires",
+      "toNode": "n_chapitre_32_etapes_succession_deblocage_comptes_bancaires",
+      "label": "precedes [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_droits_de_succession_definition_succession_droits_de_succession_fiscaux",
+      "fromNode": "n_chapitre_17_succession_demarches_droits_de_succession",
+      "toNode": "n_definition_succession_droits_de_succession_fiscaux",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_acceptation_tacite_succession_acceptation_tacite_belges_refusent_heritage_renonciation_succession",
+      "fromNode": "n_acceptation_tacite_succession_acceptation_tacite",
+      "toNode": "n_belges_refusent_heritage_renonciation_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_definition_succession_succession_legale_guide_preparer_son_testament_succession_ab_intestat",
+      "fromNode": "n_definition_succession_succession_legale",
+      "toNode": "n_guide_preparer_son_testament_succession_ab_intestat",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_definition_succession_succession_testamentaire_guide_preparer_son_testament_testament_olographe",
+      "fromNode": "n_definition_succession_succession_testamentaire",
+      "toNode": "n_guide_preparer_son_testament_testament_olographe",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_07_testament_pas_testament_intestate_succession",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_07_testament_pas_testament_intestate_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_legs_types_chapitre_37_heritier_legataire_legatee_types",
+      "fromNode": "n_chapitre_08_testament_olographe_legs_types",
+      "toNode": "n_chapitre_37_heritier_legataire_legatee_types",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_surviving_spouse_rights_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "fromNode": "n_chapitre_23_conjoint_survivant_surviving_spouse_rights",
+      "toNode": "n_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_temps_notaire_succession_legal_deadlines_declaration_succession_notairebe_official_declaration",
+      "fromNode": "n_temps_notaire_succession_legal_deadlines",
+      "toNode": "n_declaration_succession_notairebe_official_declaration",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_ordre_succession_chapitre_07_testament_pas_testament_intestate_succession",
+      "fromNode": "n_chapitre_27_repartition_heritage_ordre_succession",
+      "toNode": "n_chapitre_07_testament_pas_testament_intestate_succession",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_guide_succession_apres_deces_certificat_heredite_chapitre_34_payer_factures_bank_freeze",
+      "fromNode": "n_guide_succession_apres_deces_certificat_heredite",
+      "toNode": "n_chapitre_34_payer_factures_bank_freeze",
+      "label": "enables [INFERRED]"
+    },
+    {
+      "id": "e_guide_succession_apres_deces_deblocage_bancaire_chapitre_34_payer_factures_emergency_access",
+      "fromNode": "n_guide_succession_apres_deces_deblocage_bancaire",
+      "toNode": "n_chapitre_34_payer_factures_emergency_access",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_declaration_succession_chapitre_28_bureau_securite_juridique_bsj",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "toNode": "n_chapitre_28_bureau_securite_juridique_bsj",
+      "label": "enables [INFERRED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_declaration_succession_article_108_succession_presomption_fiscale",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "toNode": "n_article_108_succession_presomption_fiscale",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_succession_legale_succession_deces_parents_grands_parents_ordre_heredite",
+      "fromNode": "n_chapitre_22_enfants_heritiers_succession_legale",
+      "toNode": "n_succession_deces_parents_grands_parents_ordre_heredite",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_donation_solution_succession_donation",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_donation_solution_succession_donation",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_nue_propriete_donation_solution_succession_donation_reserve_usufruit",
+      "fromNode": "n_chapitre_22_enfants_heritiers_nue_propriete",
+      "toNode": "n_donation_solution_succession_donation_reserve_usufruit",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_donation_solution_succession_donation_non_enregistree_article_108_succession_presomption_fiscale",
+      "fromNode": "n_donation_solution_succession_donation_non_enregistree",
+      "toNode": "n_article_108_succession_presomption_fiscale",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_succession_deces_parents_grands_parents_heritiers_mineurs_chapitre_13_testament_contenu_designation_tuteurs",
+      "fromNode": "n_succession_deces_parents_grands_parents_heritiers_mineurs",
+      "toNode": "n_chapitre_13_testament_contenu_designation_tuteurs",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_09_testament_prix_testament_authentique_rediger_soi_meme_testament_notaire_be_testament_olographe",
+      "fromNode": "n_chapitre_09_testament_prix_testament_authentique",
+      "toNode": "n_rediger_soi_meme_testament_notaire_be_testament_olographe",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_31_demarches_apres_deces_formalites_post_deces_chapitre_17_succession_demarches_ouverture_succession",
+      "fromNode": "n_chapitre_31_demarches_apres_deces_formalites_post_deces",
+      "toNode": "n_chapitre_17_succession_demarches_ouverture_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_31_demarches_apres_deces_formalites_post_deces_chapitre_32_etapes_succession_etapes_succession",
+      "fromNode": "n_chapitre_31_demarches_apres_deces_formalites_post_deces",
+      "toNode": "n_chapitre_32_etapes_succession_etapes_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_le_testament_notarie_testament_notarie_guide_preparer_son_testament_testament_olographe",
+      "fromNode": "n_le_testament_notarie_testament_notarie",
+      "toNode": "n_guide_preparer_son_testament_testament_olographe",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_19_succession_sans_notaire_tarification_notaire_guide_preparer_son_testament_couts_testament",
+      "fromNode": "n_chapitre_19_succession_sans_notaire_tarification_notaire",
+      "toNode": "n_guide_preparer_son_testament_couts_testament",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_10_testament_tuteurs_tuteur_legal_chapitre_30_mineurs_heritiers_mineur_heritier",
+      "fromNode": "n_chapitre_10_testament_tuteurs_tuteur_legal",
+      "toNode": "n_chapitre_30_mineurs_heritiers_mineur_heritier",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_27_repartition_heritage_quotite_disponible",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_27_repartition_heritage_quotite_disponible",
+      "label": "enables [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_05_don_corps_science_body_donation_guide_anticiper_declarations_volonte_organ_donation",
+      "fromNode": "n_chapitre_05_don_corps_science_body_donation",
+      "toNode": "n_guide_anticiper_declarations_volonte_organ_donation",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_reserve_conjoint_chapitre_27_repartition_heritage_reserve_legale",
+      "fromNode": "n_chapitre_23_conjoint_survivant_reserve_conjoint",
+      "toNode": "n_chapitre_27_repartition_heritage_reserve_legale",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_maison_familiale_exemption_abattements_succession_tax_allowances",
+      "fromNode": "n_chapitre_23_conjoint_survivant_maison_familiale_exemption",
+      "toNode": "n_abattements_succession_tax_allowances",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_temps_notaire_succession_late_filing_penalties_remplir_declaration_succession_flandre_filing_risks",
+      "fromNode": "n_temps_notaire_succession_late_filing_penalties",
+      "toNode": "n_remplir_declaration_succession_flandre_filing_risks",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_ordre_succession_succession_freres_soeurs_sibling_succession",
+      "fromNode": "n_chapitre_27_repartition_heritage_ordre_succession",
+      "toNode": "n_succession_freres_soeurs_sibling_succession",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_ordre_succession_chapitre_07_testament_pas_testament_five_principles",
+      "fromNode": "n_chapitre_27_repartition_heritage_ordre_succession",
+      "toNode": "n_chapitre_07_testament_pas_testament_five_principles",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_27_repartition_heritage_heritiers_reservataires_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "fromNode": "n_chapitre_27_repartition_heritage_heritiers_reservataires",
+      "toNode": "n_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_abattements_succession_tax_allowances_chapitre_24_couts_succession_droits_succession",
+      "fromNode": "n_abattements_succession_tax_allowances",
+      "toNode": "n_chapitre_24_couts_succession_droits_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_succession_freres_soeurs_sibling_tax_rates_chapitre_24_couts_succession_droits_succession",
+      "fromNode": "n_succession_freres_soeurs_sibling_tax_rates",
+      "toNode": "n_chapitre_24_couts_succession_droits_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_24_couts_succession_total_costs_chapitre_29_frais_notaire_notary_fees",
+      "fromNode": "n_chapitre_24_couts_succession_total_costs",
+      "toNode": "n_chapitre_29_frais_notaire_notary_fees",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_declaration_succession_notairebe_official_declaration_declaration_succession_notairebe_mutation_par_deces",
+      "fromNode": "n_declaration_succession_notairebe_official_declaration",
+      "toNode": "n_declaration_succession_notairebe_mutation_par_deces",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_declaration_succession_notairebe_official_declaration_remplir_declaration_succession_flandre_self_filing",
+      "fromNode": "n_declaration_succession_notairebe_official_declaration",
+      "toNode": "n_remplir_declaration_succession_flandre_self_filing",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_remplir_declaration_succession_wallonie_bruxelles_declaration_succession_chapitre_39_frais_passif_deductibilite_frais",
+      "fromNode": "n_remplir_declaration_succession_wallonie_bruxelles_declaration_succession",
+      "toNode": "n_chapitre_39_frais_passif_deductibilite_frais",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_reserve_succession_deces_parents_grands_parents_petits_enfants_heritiers",
+      "fromNode": "n_chapitre_22_enfants_heritiers_reserve",
+      "toNode": "n_succession_deces_parents_grands_parents_petits_enfants_heritiers",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_22_enfants_heritiers_action_en_reduction_donation_solution_succession_donation",
+      "fromNode": "n_chapitre_22_enfants_heritiers_action_en_reduction",
+      "toNode": "n_donation_solution_succession_donation",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_reserve_patrimoniale_quotite_disponible_chapitre_13_testament_contenu_legs_specifiques",
+      "fromNode": "n_reserve_patrimoniale_quotite_disponible",
+      "toNode": "n_chapitre_13_testament_contenu_legs_specifiques",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_reserve_patrimoniale_reserve_conjoint_regime_matrimonial_succession_communaute_biens",
+      "fromNode": "n_reserve_patrimoniale_reserve_conjoint",
+      "toNode": "n_regime_matrimonial_succession_communaute_biens",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_reserve_patrimoniale_reserve_conjoint_regime_matrimonial_succession_communaute_universelle",
+      "fromNode": "n_reserve_patrimoniale_reserve_conjoint",
+      "toNode": "n_regime_matrimonial_succession_communaute_universelle",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_13_testament_contenu_testament_en_ligne_chapitre_06_testament_quoi_sert_utilite_testament",
+      "fromNode": "n_chapitre_13_testament_contenu_testament_en_ligne",
+      "toNode": "n_chapitre_06_testament_quoi_sert_utilite_testament",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_09_testament_prix_testament_authentique_chapitre_06_testament_quoi_sert_utilite_testament",
+      "fromNode": "n_chapitre_09_testament_prix_testament_authentique",
+      "toNode": "n_chapitre_06_testament_quoi_sert_utilite_testament",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_09_testament_prix_registre_central_testaments_rediger_soi_meme_testament_notaire_be_depot_notaire",
+      "fromNode": "n_chapitre_09_testament_prix_registre_central_testaments",
+      "toNode": "n_rediger_soi_meme_testament_notaire_be_depot_notaire",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_06_testament_quoi_sert_utilite_testament_rediger_soi_meme_testament_notaire_be_testament_olographe",
+      "fromNode": "n_chapitre_06_testament_quoi_sert_utilite_testament",
+      "toNode": "n_rediger_soi_meme_testament_notaire_be_testament_olographe",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_31_demarches_apres_deces_notification_organismes_chapitre_21_certificat_heredite_certificat_heredite",
+      "fromNode": "n_chapitre_31_demarches_apres_deces_notification_organismes",
+      "toNode": "n_chapitre_21_certificat_heredite_certificat_heredite",
+      "label": "requires [INFERRED]"
+    },
+    {
+      "id": "e_le_testament_notarie_testament_notarie_chapitre_16_testament_modifier_mise_a_jour_testament",
+      "fromNode": "n_le_testament_notarie_testament_notarie",
+      "toNode": "n_chapitre_16_testament_modifier_mise_a_jour_testament",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_17_succession_demarches_ouverture_succession_pension_survie_pension_de_survie",
+      "fromNode": "n_chapitre_17_succession_demarches_ouverture_succession",
+      "toNode": "n_pension_survie_pension_de_survie",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_19_succession_sans_notaire_risques_erreurs_succession_chapitre_26_declaration_succession_delais_depot",
+      "fromNode": "n_chapitre_19_succession_sans_notaire_risques_erreurs_succession",
+      "toNode": "n_chapitre_26_declaration_succession_delais_depot",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_16_testament_modifier_mise_a_jour_testament_guide_preparer_son_testament_testament_olographe",
+      "fromNode": "n_chapitre_16_testament_modifier_mise_a_jour_testament",
+      "toNode": "n_guide_preparer_son_testament_testament_olographe",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_10_testament_tuteurs_tuteur_legal_chapitre_30_mineurs_heritiers_administrateur_legal_mineur",
+      "fromNode": "n_chapitre_10_testament_tuteurs_tuteur_legal",
+      "toNode": "n_chapitre_30_mineurs_heritiers_administrateur_legal_mineur",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_15_testament_retrouver_enregistrement_crt_guide_preparer_son_testament_testament_olographe",
+      "fromNode": "n_chapitre_15_testament_retrouver_enregistrement_crt",
+      "toNode": "n_guide_preparer_son_testament_testament_olographe",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_08_testament_olographe_holographic_will_chapitre_11_testament_animaux_pet_guardianship",
+      "fromNode": "n_chapitre_08_testament_olographe_holographic_will",
+      "toNode": "n_chapitre_11_testament_animaux_pet_guardianship",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_35_saut_generation_generation_skipping_abattements_succession_tax_allowances",
+      "fromNode": "n_chapitre_35_saut_generation_generation_skipping",
+      "toNode": "n_abattements_succession_tax_allowances",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_05_don_corps_science_university_procedure_chapitre_05_don_corps_science_refusal_conditions",
+      "fromNode": "n_chapitre_05_don_corps_science_university_procedure",
+      "toNode": "n_chapitre_05_don_corps_science_refusal_conditions",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_23_conjoint_survivant_usufruit_chapitre_27_repartition_heritage_ordre_succession",
+      "fromNode": "n_chapitre_23_conjoint_survivant_usufruit",
+      "toNode": "n_chapitre_27_repartition_heritage_ordre_succession",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_temps_notaire_succession_legal_deadlines_guide_succession_apres_deces_process_overview",
+      "fromNode": "n_temps_notaire_succession_legal_deadlines",
+      "toNode": "n_guide_succession_apres_deces_process_overview",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_temps_notaire_succession_obligation_moyens_chapitre_29_frais_notaire_notary_fees",
+      "fromNode": "n_temps_notaire_succession_obligation_moyens",
+      "toNode": "n_chapitre_29_frais_notaire_notary_fees",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_abattements_succession_tax_allowances_declaration_succession_notairebe_official_declaration",
+      "fromNode": "n_abattements_succession_tax_allowances",
+      "toNode": "n_declaration_succession_notairebe_official_declaration",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_guide_succession_apres_deces_process_overview_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "fromNode": "n_guide_succession_apres_deces_process_overview",
+      "toNode": "n_chapitre_37_heritier_legataire_heir_vs_legatee",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_24_couts_succession_funeral_costs_chapitre_34_payer_factures_emergency_access",
+      "fromNode": "n_chapitre_24_couts_succession_funeral_costs",
+      "toNode": "n_chapitre_34_payer_factures_emergency_access",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_29_frais_notaire_legacio_alternative_remplir_declaration_succession_flandre_self_filing",
+      "fromNode": "n_chapitre_29_frais_notaire_legacio_alternative",
+      "toNode": "n_remplir_declaration_succession_flandre_self_filing",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_chapitre_37_heritier_legataire_legatee_types_declaration_succession_notairebe_content_requirements",
+      "fromNode": "n_chapitre_37_heritier_legataire_legatee_types",
+      "toNode": "n_declaration_succession_notairebe_content_requirements",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_declaration_succession_notairebe_content_requirements_remplir_declaration_succession_flandre_filing_risks",
+      "fromNode": "n_declaration_succession_notairebe_content_requirements",
+      "toNode": "n_remplir_declaration_succession_flandre_filing_risks",
+      "label": "conceptually_related_to [INFERRED]"
+    }
+  ]
+}
